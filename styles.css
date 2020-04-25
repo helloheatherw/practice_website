@@ -3,24 +3,24 @@
 body {
     background-color: darkslategray;
     color: white;
-  }
+}
   
-  h1 {
+h1 {
     font-family: Helvetica;
-  }
+}
   
   /* Media Queries */
   
-  @media only screen and (min-width: 500px) {
+@media only screen and (min-width: 500px) {
     body {
-      background-color: lightblue;
+        background-color: lightblue;
     }
-  }
+}
   
-  @media only screen and (min-width: 800px) {
+@media only screen and (min-width: 800px) {
     body {
-      background-color: lightcoral;
+        background-color: lightcoral;
     }
-  }
+}
   
   
