@@ -1,0 +1,26 @@
+/* Default styles */
+
+body {
+    background-color: darkslategray;
+    color: white;
+  }
+  
+  h1 {
+    font-family: Helvetica;
+  }
+  
+  /* Media Queries */
+  
+  @media only screen and (min-width: 500px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  
+  @media only screen and (min-width: 800px) {
+    body {
+      background-color: lightcoral;
+    }
+  }
+  
+  
